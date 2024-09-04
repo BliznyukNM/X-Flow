@@ -1,0 +1,1 @@
+Whoever is going to make the same pre-screening for X-Flow make sure you fully rewrite target search function. Seems like they want a completely new algorithm (although they don't say that specifically).
